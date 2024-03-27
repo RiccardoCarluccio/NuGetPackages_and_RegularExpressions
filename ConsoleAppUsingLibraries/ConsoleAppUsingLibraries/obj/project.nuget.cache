@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UYZKYks4Z1nf2smuCwNqtBTLyfk9G7M7q0savs+EyMp93t4yjAiPvTvYjOXz283SJdxSWcXxSezC4nYxITMtVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Riccardo\\source\\repos\\PART 2 - API\\Test2_27-03-2024_NuGetLibraries\\ConsoleAppUsingLibraries\\ConsoleAppUsingLibraries\\ConsoleAppUsingLibraries.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Riccardo\\.nuget\\packages\\regexutils\\1.1.3\\regexutils.1.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

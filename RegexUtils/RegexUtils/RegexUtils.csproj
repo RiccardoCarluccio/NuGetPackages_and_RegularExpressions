@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+	  <PackageId>RegexUtils</PackageId>
+	  <Version>1.1.3</Version>
+	  <Authors>Riccardo Carluccio</Authors>
+	  <Description>Libreria che usa delle Regex-Utils</Description>
+	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
+	  
+	  <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	  
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

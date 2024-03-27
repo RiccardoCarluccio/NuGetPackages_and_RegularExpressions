@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleAppUsingLibraries/1.0.0": {
+        "dependencies": {
+          "RegexUtils": "1.1.3"
+        },
+        "runtime": {
+          "ConsoleAppUsingLibraries.dll": {}
+        }
+      },
+      "RegexUtils/1.1.3": {
+        "runtime": {
+          "lib/net8.0/RegexUtils.dll": {
+            "assemblyVersion": "1.1.3.0",
+            "fileVersion": "1.1.3.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppUsingLibraries/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RegexUtils/1.1.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/QGP8XxLwqV/Gbic9gLg5gFM8TcGLGjXuV9PDCmUt5U1xarW8u8l3IGnhpfWvakQ+3gej5jWNUXn0MaCDEpYPQ==",
+      "path": "regexutils/1.1.3",
+      "hashPath": "regexutils.1.1.3.nupkg.sha512"
+    }
+  }
+}
